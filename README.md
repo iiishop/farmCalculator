@@ -18,10 +18,12 @@
 
 ### 安装要求
 
-- Python 3.6 或更高版本
+- Python 3.11.0 或更高版本
 - 图形界面依赖tkinter和PIL库
   ```
   pip install pillow
+  or
+  pip -r install requirements.txt
   ```
 
 ### 启动程序
