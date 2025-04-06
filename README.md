@@ -23,7 +23,7 @@
   ```
   pip install pillow
   or
-  pip -r install requirements.txt
+  pip install -r requirements.txt
   ```
 
 ### 启动程序
