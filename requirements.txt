@@ -1,0 +1,4 @@
+# 边缘世界农场计算器依赖项
+pillow
+typing
+importli
