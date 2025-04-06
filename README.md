@@ -38,11 +38,6 @@ python main.py
 python gui.py
 ```
 
-**查看帮助文档**:
-```bash
-python README.py
-```
-
 ### 使用步骤
 
 #### 命令行界面：
