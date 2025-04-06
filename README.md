@@ -102,7 +102,6 @@ python gui.py
 
 - `main.py` - 命令行界面和核心计算逻辑
 - `gui.py` - 基于tkinter的图形用户界面
-- `README.py` - 可视化帮助文档
 
 ## 👤 关于作者
 
