@@ -94,6 +94,6 @@ gui.py         图形界面（tkinter）
 
 ## 作者
 
-吾之野望
+[吾之野望](https://github.com/AmbitionMjl9201)
 
 有问题或建议欢迎提 issue。
